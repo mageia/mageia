@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Calcium-Ion&show_icons=true&theme=buefy&hide_border=true" alt="Calcium-Ion's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calcium-Ion&layout=compact&theme=buefy&hide_border=true&hide=html,css" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mageia&show_icons=true&theme=buefy&hide_border=true" alt="Mageia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mageia&layout=compact&theme=buefy&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 
 <!--
